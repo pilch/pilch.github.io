@@ -1,4 +1,4 @@
-filename,hdd,cdd,switchover_lt15,switchover_lt20,switchover_lt25,switchover_lt30,switchover_lt35,switchover_lt40
+in.county,hdd,cdd,switchover_lt15,switchover_lt20,switchover_lt25,switchover_lt30,switchover_lt35,switchover_lt40
 G0100010,2825.635,2456.3125,27.61,86.935,209.1875,412.105,788.865,1340.07
 G0100030,1837.0225,2503.51,0,3.8,21.2175,52.3175,151.995,412.035
 G0100050,3415.08,1952.535,39.5475,135.265,407.4875,832.955,1321.66,1862.285
